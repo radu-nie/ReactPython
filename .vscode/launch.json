@@ -34,7 +34,7 @@
         }
     ],
     "compounds": [{
-        "name": "Server/Client",
+        "name": "Server and Client",
         "configurations": ["Server", "Client"]
     }]
 }
